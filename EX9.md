@@ -1,5 +1,5 @@
 # EX 9: Simulating Classification using WEKA Data mining and Analysis Tool
-## Date: 
+## Date: 06/10/23
 ## AIM:
 To perform a classification technique using WEKA tool
 ## WEKA:
@@ -38,11 +38,3 @@ Classification in data mining is a common technique that separates data points i
 
 ## RESULT:
 Thus the simulation of classification technique has been executed using WEKA tool successfully.
-
-
-
-
-
-
-
-
